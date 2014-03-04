@@ -1,0 +1,134 @@
+[
+  {
+    "Day": "Monday",
+    "Talks": [
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "Get ready to have your circuits fried as we press the GO button! Launching the DCU Tech week into your minds, networks and hearts. This week is a celebration of all thing Technology and we have lots of inspirational events lined up for you tech addicts! #TechWeekDCU"
+      },
+      {
+        "Day": "Monday",
+        "Title": "3D Modelling - Blender for Beginners,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "Dave Larkan is a previous chairperson of redbrick and is a very talented individual, he has run some very successful workshops on similar topics before.This will be an introductory workshop to the fantastic free and open source 3D modelling tool that is Blender. You will be amazed at how quickly you can learn to build graphical 3D objects under Dave's guidance. This workshop/lab normally fills up quite quickly, bring a laptop with blender installed just to be sure you can take part. This is open to all and requires no previous knowledge of blender or 3D Modelling!"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Web Development 101,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Hosts": "Max Hoffmann",
+        "Blurb": "Max Hoffmann is a wise and greatly experienced web developer with a keen eye for smart design. He will be taking us through the ins and outs of web design, focusing on techniques and tricks that help your site stand out above the rest. This is a very useful talk for those new to web design or development or even those familiar with it but looking for helpful tips from an expert."
+      }
+    ]
+  },
+  {
+    "Day": "Tuesday",
+    "Talks": [
+      {
+        "Day": "Tuesday",
+        "Title": "Intro to Mobile Development (iOS and Android)",
+        "Location": "Old Bar",
+        "Time": "1:00",
+        "Hosts": "Dan Malone & Robert Lis",
+        "Blurb": "Dan Malone and Robert Lis are two extremely smart and talented Software developers. They are also 4th year CA students. They will be taking us through the very basics of mobile development on different platforms, comparing the two and possibly arguing about which is the better platform. Could you make the next flappy bird?"
+      },
+      {
+        "Day": "Tuesday",
+        "Title": "Awesome Raspberry Pi Projects",
+        "Location": "Old Bar",
+        "Time": "2:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Tuesday",
+        "Title": "Screening - \"How Hackers changed the world\"",
+        "Location": "Old Bar",
+        "Time": "3:00",
+        "Blurb": " If you haven't already seen We are Legion: How hackers changed the world \n  you are in for a treat. Plenty of treats/pizzas to go along with this documentary movie! \n  Don't forget your Guy Fawkes masks :)"
+      }
+    ]
+  },
+  {
+    "Day": "Wednesday",
+    "Talks": [
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      }
+    ]
+  },
+  {
+    "Day": "Thursday",
+    "Thursday": [
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      }
+    ]
+  },
+  {
+    "Day": "Friday",
+    "Friday": [
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      },
+      {
+        "Day": "Monday",
+        "Title": "Tech Week:Activate,",
+        "Location": "Old Bar",
+        "Time": "12:00",
+        "Blurb": "f"
+      }
+    ]
+  }
+]

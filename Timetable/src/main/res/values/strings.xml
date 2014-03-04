@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timetable</string>
+    <string name="title_section1">Monday</string>
+    <string name="title_section2">Tuesday</string>
+    <string name="title_section3">Wednesday</string>
+    <string name="title_section4">Thursday</string>
+    <string name="title_section5">Friday</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
